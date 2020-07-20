@@ -1,0 +1,21 @@
+C:\Users\Gabri\AppData\Local\Temporary Projects\numero1\bin\Debug\numero1.exe
+C:\Users\Gabri\AppData\Local\Temporary Projects\numero1\bin\Debug\numero1.pdb
+C:\Users\Gabri\AppData\Local\Temporary Projects\numero1\bin\Debug\numero1.xml
+C:\Users\Gabri\AppData\Local\Temporary Projects\numero1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gabri\AppData\Local\Temporary Projects\numero1\obj\Debug\numero1.Resources.resources
+C:\Users\Gabri\AppData\Local\Temporary Projects\numero1\obj\Debug\numero1.vbproj.GenerateResource.Cache
+C:\Users\Gabri\AppData\Local\Temporary Projects\numero1\obj\Debug\numero1.exe
+C:\Users\Gabri\AppData\Local\Temporary Projects\numero1\obj\Debug\numero1.xml
+C:\Users\Gabri\AppData\Local\Temporary Projects\numero1\obj\Debug\numero1.pdb
+C:\Users\Gabri\AppData\Local\Temporary Projects\numero1\obj\Debug\numero1.Form1.resources
+C:\Users\Gabri\Desktop\proyectos en visual 2008\numero1\numero1\obj\Debug\numero1.exe
+C:\Users\Gabri\Desktop\proyectos en visual 2008\numero1\numero1\obj\Debug\numero1.xml
+C:\Users\Gabri\Desktop\proyectos en visual 2008\numero1\numero1\obj\Debug\numero1.pdb
+C:\Users\Gabri\Desktop\proyectos en visual 2008\numero1\numero1\bin\Debug\numero1.exe
+C:\Users\Gabri\Desktop\proyectos en visual 2008\numero1\numero1\bin\Debug\numero1.pdb
+C:\Users\Gabri\Desktop\proyectos en visual 2008\numero1\numero1\bin\Debug\numero1.xml
+C:\Users\Gabri\Desktop\proyectos en visual 2008\numero1\numero1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gabri\Desktop\proyectos en visual 2008\numero1\numero1\obj\Debug\numero1.Form1.resources
+C:\Users\Gabri\Desktop\proyectos en visual 2008\numero1\numero1\obj\Debug\numero1.Resources.resources
+C:\Users\Gabri\Desktop\proyectos en visual 2008\numero1\numero1\obj\Debug\numero1.vbproj.GenerateResource.Cache
+C:\Users\Gabri\Desktop\proyectos en visual 2008\numero1\numero1\obj\Debug\numero1.Form2.resources
